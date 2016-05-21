@@ -1,0 +1,2 @@
+# How-to-make-android-app-using-html-CSS-and-JavaScript-in-Cordova
+es, you can develop apps using HTML / CSS / Javascript.  We use HTML5, CSS3, and JavaScript (programming language), along with jQuery Mobile, and Apache Cordova(also known as Cordova ).   The great thing about Cordova is that you can create a core app in HTML5/CSS3/JS and have it compile to all the platforms at once. So, no need to learn another language if you want to rebuild your Android app as an iOS or Windows Phone app. 
